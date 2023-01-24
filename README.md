@@ -97,4 +97,4 @@ Install dependencies in client and server repositories ( npm install in terminal
 - {errCode: 18, data: { msg: 'wow something wrong' , ...err}, path: '/user/profile'}
 - { errCode: 33, data: { msg: 'you need login first' }, path: 'middleware.auth' }
 
-[Live Link](https://lazydevs.onrender.com/)
+[Live Version](https://lazydevs.onrender.com/)
