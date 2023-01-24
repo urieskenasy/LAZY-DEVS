@@ -1,3 +1,4 @@
+![Screenshot 2023-01-24 at 17 47 30](https://user-images.githubusercontent.com/93989404/214355378-39f9c979-f342-4b2d-bd07-09b1824c7f10.png)
 
 # LAZY DEVS - OVERVIEW
 
@@ -95,5 +96,5 @@ Install dependencies in client and server repositories ( npm install in terminal
 - {errCode: 17, data: { msg: 'wow something wrong' , ...err}, path: 'user logout'}
 - {errCode: 18, data: { msg: 'wow something wrong' , ...err}, path: '/user/profile'}
 - { errCode: 33, data: { msg: 'you need login first' }, path: 'middleware.auth' }
-# lazy-devs
-# lazy-devs
+
+[Live Link](https://lazydevs.onrender.com/)
